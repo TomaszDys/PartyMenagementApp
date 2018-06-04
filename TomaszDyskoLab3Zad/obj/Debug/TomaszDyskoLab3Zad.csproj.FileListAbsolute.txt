@@ -1,0 +1,16 @@
+C:\Users\tomek\source\repos\TomaszDyskoLab3Zad\TomaszDyskoLab3Zad\obj\Debug\TomaszDyskoLab3Zad.csprojResolveAssemblyReference.cache
+C:\Users\tomek\source\repos\TomaszDyskoLab3Zad\TomaszDyskoLab3Zad\obj\Debug\TomaszDyskoLab3Zad.FormMain.resources
+C:\Users\tomek\source\repos\TomaszDyskoLab3Zad\TomaszDyskoLab3Zad\obj\Debug\TomaszDyskoLab3Zad.FormGuestList.resources
+C:\Users\tomek\source\repos\TomaszDyskoLab3Zad\TomaszDyskoLab3Zad\obj\Debug\TomaszDyskoLab3Zad.Properties.Resources.resources
+C:\Users\tomek\source\repos\TomaszDyskoLab3Zad\TomaszDyskoLab3Zad\obj\Debug\TomaszDyskoLab3Zad.csproj.GenerateResource.cache
+C:\Users\tomek\source\repos\TomaszDyskoLab3Zad\TomaszDyskoLab3Zad\obj\Debug\TomaszDyskoLab3Zad.csproj.CoreCompileInputs.cache
+C:\Users\tomek\source\repos\TomaszDyskoLab3Zad\TomaszDyskoLab3Zad\bin\Debug\TomaszDyskoLab3Zad.exe.config
+C:\Users\tomek\source\repos\TomaszDyskoLab3Zad\TomaszDyskoLab3Zad\bin\Debug\TomaszDyskoLab3Zad.exe
+C:\Users\tomek\source\repos\TomaszDyskoLab3Zad\TomaszDyskoLab3Zad\bin\Debug\TomaszDyskoLab3Zad.pdb
+C:\Users\tomek\source\repos\TomaszDyskoLab3Zad\TomaszDyskoLab3Zad\obj\Debug\TomaszDyskoLab3Zad.exe
+C:\Users\tomek\source\repos\TomaszDyskoLab3Zad\TomaszDyskoLab3Zad\obj\Debug\TomaszDyskoLab3Zad.pdb
+C:\Users\tomek\source\repos\TomaszDyskoLab3Zad\TomaszDyskoLab3Zad\obj\Debug\TomaszDyskoLab3Zad.FormCloakRoom.resources
+C:\Users\tomek\source\repos\TomaszDyskoLab3Zad\TomaszDyskoLab3Zad\obj\Debug\TomaszDyskoLab3Zad.FormMenu.resources
+C:\Users\tomek\source\repos\TomaszDyskoLab3Zad\TomaszDyskoLab3Zad\obj\Debug\TomaszDyskoLab3Zad.FormTabels.resources
+C:\Users\tomek\source\repos\TomaszDyskoLab3Zad\TomaszDyskoLab3Zad\obj\Debug\TomaszDyskoLab3Zad.FormMusic.resources
+C:\Users\tomek\source\repos\TomaszDyskoLab3Zad\TomaszDyskoLab3Zad\obj\Debug\TomaszDyskoLab3Zad.FormOrders.resources
